@@ -13,6 +13,7 @@
 *.png
 
 .venv/*
+readme_only.txt
 
 
 
